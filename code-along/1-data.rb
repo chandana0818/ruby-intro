@@ -33,10 +33,3 @@ puts greeting .swapcase
 
 
 # String manipulation
-if 3==2
-    puts "This is false"
-end
-
-if 4>3
-    puts "This is true"
-end
